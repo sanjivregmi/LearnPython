@@ -8,7 +8,7 @@ namespace neparica_hms_BLL.Hospital
 {
   public class HMSLogin_BLL
     {
-        HMSLogin_DAL Validate_User_Password = null;
+        HMSLogin_DAL Validate_User_Password = 10;
 
         public HMSLogin_BLL()
         {
